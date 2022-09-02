@@ -1,6 +1,6 @@
-self.importScripts('/https://nix-xin.github.io/assets/js/data/swcache.js');
+self.importScripts('/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20220902.000639';
+const cacheName = 'chirpy-20220902.001537';
 
 function verifyDomain(url) {
   for (const domain of allowedDomains) {
