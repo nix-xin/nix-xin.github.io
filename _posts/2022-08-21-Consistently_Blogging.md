@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Consistently Blogging"
+---
+
+# Blogging Consistently
+I started the year hoping to blog more. I must have tried out at least 7 or 8 different blogging platforms over the years. Recently settled on Medium, but haven't made significant progress. I think I'm always searching for the perfect feeling of visual representation of my words. I often stare at the screen, simply looking at the font, expecting it to tell me that its okay. But it never does.
+
+I suppose I must continue Blogging, at least a little more consistently.
